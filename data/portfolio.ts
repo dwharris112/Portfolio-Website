@@ -23,7 +23,7 @@ export const profile = {
   resumePath: "/resume.pdf",
   github: "https://github.com/your-username",
   linkedin: "https://www.linkedin.com/in/david-harris-a56042276/",
-  siteUrl: process.env.NEXT_PUBLIC_SITE_URL ?? "https://example.com"
+  siteUrl: process.env.NEXT_PUBLIC_SITE_URL || "https://example.com"
 };
 
 export const navigation = [
