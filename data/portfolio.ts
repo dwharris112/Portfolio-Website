@@ -18,7 +18,7 @@ export const profile = {
   tagline:
     "Building reliable systems where embedded hardware, digital design, and software meet.",
   shortBio:
-    "I am an Electrical & Computer Engineering student at Virginia Tech interested in the full computing stack—from semiconductor devices and digital logic to embedded firmware and production software. I am seeking internships, co-ops, research roles, and engineering positions where I can turn rigorous technical ideas into dependable systems.",
+    "I am an Electrical & Computer Engineering student at Virginia Tech interested in the full computing stack from semiconductor devices and digital logic to embedded firmware and production software. I am seeking internships, co-ops, research roles, and engineering positions where I can turn rigorous technical ideas into dependable systems.",
   availability: "Seeking engineering opportunities",
   resumePath: "/resume.pdf",
   github: "https://github.com/your-username",
